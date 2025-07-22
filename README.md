@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarisZafar505 a physics grad student
 - 👀 I’m interested in Quantum Open Systems and Quantum Statistical Processes
-- 🌱 I’m currently working on Tavis Cummings Model and Quantum Many-body Localization
+- 🌱 I’m currently working on Bose-Hubbard Models and their quantum simulation via DMRG, QMC and MFT
 - 💞️ I’m looking to collaborate on computational implementations of physical systems of my interest (mentioned above)
 - 📫 Email: hariszafarphy@gmail.com
